@@ -19,7 +19,6 @@
 | DZ1633012 | https://alluxio.atlassian.net/browse/ALLUXIO-2101 |
 | DZ1633014 | https://alluxio.atlassian.net/browse/ALLUXIO-2103 |
 | DZ1633019 | https://alluxio.atlassian.net/browse/ALLUXIO-2104 |
-| MF1523001 | https://alluxio.atlassian.net/browse/ALLUXIO-2105 |
 | MF1533012 | https://alluxio.atlassian.net/browse/ALLUXIO-2106 |
 | MF1533040 | https://alluxio.atlassian.net/browse/ALLUXIO-2125 |
 | MF1611002 | https://alluxio.atlassian.net/browse/ALLUXIO-2126 |
@@ -102,3 +101,6 @@
 | MG1633108 | |
 | 131220168 | |
 | MG1433092 | |
+| MF1523001 | |
+| MG1633035 | |
+| MG1633022 | |
