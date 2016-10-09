@@ -14,7 +14,7 @@
   ![title](img/title.png)
 - 在创建PR时的描述框中，第一行请添加该 jira 的链接，如图所示，
   ![jira-link](img/description.png)
-- 创建PR后，会有个 alluxio-bot 提示你** sign a contribution license agreement **，这个作用是确保你写的代码能够被开源社区接受和使用，烦请大家花两分钟sign下，很简单的(*^__^*)
+- 创建PR后，会有个 alluxio-bot 提示你`sign a contribution license agreement`，这个作用是确保你写的代码能够被开源社区接受和使用，烦请大家花两分钟sign下，很简单的(*^__^*)
   ![cla](img/agreement.png)
 
 ## 第一批
