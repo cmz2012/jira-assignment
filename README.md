@@ -23,7 +23,6 @@
 
 | 学号 | jira 链接 |
 |:---------:|:-------------------------------------------------:|
-| DZ1633002 | https://alluxio.atlassian.net/browse/ALLUXIO-1797 |
 | DZ1633006 | https://alluxio.atlassian.net/browse/ALLUXIO-1977 |
 | DZ1633008 | https://alluxio.atlassian.net/browse/ALLUXIO-2074 |
 | DZ1633010 | https://alluxio.atlassian.net/browse/ALLUXIO-2097 |
@@ -136,3 +135,4 @@
 | MG1533039 | |
 | MF1533011 | |
 | MF1633037 | |
+| DZ1633002 | |
