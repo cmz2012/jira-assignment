@@ -8,6 +8,15 @@
 
 ### 提醒下，大家最后创建 PR 时候，务必将该 jira 链接添加到该 PR 的描述框里，不然我无法知道该 PR 对应于哪个任务以及是哪个同学完成的
 
+## Note
+
+- 大家创建PR时请注意PR的标题格式，标准格式如图所示，已经创建的PR也支持修改格式的。
+  ![title](img/title.png)
+- 在创建PR时的描述框中，第一行请添加该 jira 的链接，如图所示，
+  ![jira-link](img/description.png)
+- 创建PR后，会有个 alluxio-bot 提示你** sign a contribution license agreement **，这个作用是确保你写的代码能够被开源社区接受和使用，烦请大家花两分钟sign下，很简单的(*^__^*)
+  ![cla](img/agreement.png)
+
 ## 第一批
 
 | 学号 | jira 链接 |
