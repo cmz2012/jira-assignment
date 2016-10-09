@@ -16,6 +16,8 @@
   ![jira-link](img/description.png)
 - 创建PR后，会有个 alluxio-bot 提示你`sign a contribution license agreement`，这个作用是确保你写的代码能够被开源社区接受和使用，烦请大家花两分钟sign下，很简单的(*^__^*)
   ![cla](img/agreement.png)
+- 在sign contribution license agreement的时候，需要填写相应信息，请将所有信息填写完整，不然可能无法收到邮件。
+  ![sign](img/cla.png)
 
 ## 第一批
 
