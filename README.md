@@ -87,7 +87,7 @@
 | MG1633069 | https://alluxio.atlassian.net/browse/ALLUXIO-2293 | |
 | MG1633070 | https://alluxio.atlassian.net/browse/ALLUXIO-2294 | |
 | MG1633071 | https://alluxio.atlassian.net/browse/ALLUXIO-2295 | |
-| MG1633073 | https://alluxio.atlassian.net/browse/ALLUXIO-2296 | |
+| MG1633073 | https://alluxio.atlassian.net/browse/ALLUXIO-2296 | https://github.com/Alluxio/alluxio/pull/4063 | Y |
 | MG1633074 | https://alluxio.atlassian.net/browse/ALLUXIO-2297 | |
 | MG1633075 | https://alluxio.atlassian.net/browse/ALLUXIO-2298 | |
 | MG1633080 | https://alluxio.atlassian.net/browse/ALLUXIO-2299 | |
