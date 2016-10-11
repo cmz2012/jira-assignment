@@ -32,7 +32,7 @@
 | MF1533012 | https://alluxio.atlassian.net/browse/ALLUXIO-2106 | |
 | MF1533040 | https://alluxio.atlassian.net/browse/ALLUXIO-2125 | |
 | MF1611002 | https://alluxio.atlassian.net/browse/ALLUXIO-2126 | https://github.com/Alluxio/alluxio/pull/4043 |
-| MF1633003 | https://alluxio.atlassian.net/browse/ALLUXIO-2127 | https://github.com/Alluxio/alluxio/pull/4037 |
+| MF1633003 | https://alluxio.atlassian.net/browse/ALLUXIO-2127 | https://github.com/Alluxio/alluxio/pull/4037 | Y |
 | MF1633006 | https://alluxio.atlassian.net/browse/ALLUXIO-2128 | |
 | MF1633010 | https://alluxio.atlassian.net/browse/ALLUXIO-2129 | |
 | MF1633012 | https://alluxio.atlassian.net/browse/ALLUXIO-2130 | |
@@ -41,17 +41,17 @@
 | MF1633019 | https://alluxio.atlassian.net/browse/ALLUXIO-2134 | |
 | MF1633020 | https://alluxio.atlassian.net/browse/ALLUXIO-2135 | |
 | MF1633021 | https://alluxio.atlassian.net/browse/ALLUXIO-2136 | |
-| MF1633029 | https://alluxio.atlassian.net/browse/ALLUXIO-2137 | https://github.com/Alluxio/alluxio/pull/4050 |
+| MF1633029 | https://alluxio.atlassian.net/browse/ALLUXIO-2137 | https://github.com/Alluxio/alluxio/pull/4050 | Y |
 | MF1633030 | https://alluxio.atlassian.net/browse/ALLUXIO-2138 | |
 | MF1633032 | https://alluxio.atlassian.net/browse/ALLUXIO-2141 | |
 | MF1633040 | https://alluxio.atlassian.net/browse/ALLUXIO-2145 | |
 | MF1633042 | https://alluxio.atlassian.net/browse/ALLUXIO-2146 | |
 | MF1633045 | https://alluxio.atlassian.net/browse/ALLUXIO-2147 | |
 | MF1633048 | https://alluxio.atlassian.net/browse/ALLUXIO-2253 | |
-| MF1633050 | https://alluxio.atlassian.net/browse/ALLUXIO-2254 | https://github.com/Alluxio/alluxio/pull/4038 |
-| MF1633052 | https://alluxio.atlassian.net/browse/ALLUXIO-2256 | https://github.com/Alluxio/alluxio/pull/4045 |
+| MF1633050 | https://alluxio.atlassian.net/browse/ALLUXIO-2254 | https://github.com/Alluxio/alluxio/pull/4038 | Y |
+| MF1633052 | https://alluxio.atlassian.net/browse/ALLUXIO-2256 | https://github.com/Alluxio/alluxio/pull/4045 | Y |
 | MF1633053 | https://alluxio.atlassian.net/browse/ALLUXIO-2257 | |
-| MF1633054 | https://alluxio.atlassian.net/browse/ALLUXIO-2258 | https://github.com/Alluxio/alluxio/pull/4048 |
+| MF1633054 | https://alluxio.atlassian.net/browse/ALLUXIO-2258 | https://github.com/Alluxio/alluxio/pull/4048 | Y |
 | MF1633060 | https://alluxio.atlassian.net/browse/ALLUXIO-2259 | |
 | MF1633072 | https://alluxio.atlassian.net/browse/ALLUXIO-2260 | |
 | MG1523017 | https://alluxio.atlassian.net/browse/ALLUXIO-2261 | https://github.com/Alluxio/alluxio/pull/4046 |
@@ -67,7 +67,7 @@
 | MG1633023 | https://alluxio.atlassian.net/browse/ALLUXIO-2273 | |
 | MG1633024 | https://alluxio.atlassian.net/browse/ALLUXIO-2274 | |
 | MG1633027 | https://alluxio.atlassian.net/browse/ALLUXIO-2275 | |
-| MG1633034 | https://alluxio.atlassian.net/browse/ALLUXIO-2276 | https://github.com/Alluxio/alluxio/pull/4047 |
+| MG1633034 | https://alluxio.atlassian.net/browse/ALLUXIO-2276 | https://github.com/Alluxio/alluxio/pull/4047 | Y |
 | MG1633038 | https://alluxio.atlassian.net/browse/ALLUXIO-2277 | |
 | MG1633039 | https://alluxio.atlassian.net/browse/ALLUXIO-2278 | |
 | MG1633044 | https://alluxio.atlassian.net/browse/ALLUXIO-2279 | https://github.com/Alluxio/alluxio/pull/4049 |
@@ -79,7 +79,7 @@
 | MG1633051 | https://alluxio.atlassian.net/browse/ALLUXIO-2285 | |
 | MG1633053 | https://alluxio.atlassian.net/browse/ALLUXIO-2286 | |
 | MG1633055 | https://alluxio.atlassian.net/browse/ALLUXIO-2287 | |
-| MG1633059 | https://alluxio.atlassian.net/browse/ALLUXIO-2288 | |
+| MG1633059 | https://alluxio.atlassian.net/browse/ALLUXIO-2288 | https://github.com/Alluxio/alluxio/pull/4052 | Y |
 | MG1633060 | https://alluxio.atlassian.net/browse/ALLUXIO-2289 | |
 | MG1633066 | https://alluxio.atlassian.net/browse/ALLUXIO-2290 | |
 | MG1633067 | https://alluxio.atlassian.net/browse/ALLUXIO-2291 | |
@@ -94,8 +94,8 @@
 
 ## 第二批（待分配）
 
-| 学号 | jira 链接 | Pull Request 链接 |
-|:---------:|:-------------------------------------------------:|:--------------------------------------------:|
+| 学号 | jira 链接 | Pull Request 链接 | Merged |
+|:---------:|:-------------------------------------------------:|:--------------------------------------------:|:---:|
 | MG1633025 | | |
 | MG1633082 | | |
 | MG1633087 | | |
