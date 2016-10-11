@@ -21,13 +21,13 @@
 
 ## 第一批
 
-| 学号 | jira 链接 | Pull Request 链接 |
-|:---------:|:-------------------------------------------------:|:--------------------------------------------:|
+| 学号 | jira 链接 | Pull Request 链接 | Pull Request 状态 |
+|:---------:|:-------------------------------------------------:|:--------------------------------------------:|:---------:|
 | DZ1633006 | https://alluxio.atlassian.net/browse/ALLUXIO-1977 | |
-| DZ1633008 | https://alluxio.atlassian.net/browse/ALLUXIO-2074 | https://github.com/Alluxio/alluxio/pull/4039 |
+| DZ1633008 | https://alluxio.atlassian.net/browse/ALLUXIO-2074 | https://github.com/Alluxio/alluxio/pull/4039 | merged |
 | DZ1633010 | https://alluxio.atlassian.net/browse/ALLUXIO-2097 | |
 | DZ1633012 | https://alluxio.atlassian.net/browse/ALLUXIO-2101 | |
-| DZ1633014 | https://alluxio.atlassian.net/browse/ALLUXIO-2103 | https://github.com/Alluxio/alluxio/pull/4044 |
+| DZ1633014 | https://alluxio.atlassian.net/browse/ALLUXIO-2103 | https://github.com/Alluxio/alluxio/pull/4044 | reviewing |
 | DZ1633019 | https://alluxio.atlassian.net/browse/ALLUXIO-2104 | |
 | MF1533012 | https://alluxio.atlassian.net/browse/ALLUXIO-2106 | |
 | MF1533040 | https://alluxio.atlassian.net/browse/ALLUXIO-2125 | |
