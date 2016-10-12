@@ -161,3 +161,4 @@ $git config --global user.email "your_github_email"
 | MG1633095 | https://alluxio.atlassian.net/browse/ALLUXIO-2349 | |
 | MG1633083 | https://alluxio.atlassian.net/browse/ALLUXIO-2350 | |
 | MF1523028 | https://alluxio.atlassian.net/browse/ALLUXIO-2351 | |
+| MF1533050 | https://alluxio.atlassian.net/browse/ALLUXIO-2352 | |
