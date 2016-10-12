@@ -34,10 +34,10 @@
 | MF1611002 | https://alluxio.atlassian.net/browse/ALLUXIO-2126 | https://github.com/Alluxio/alluxio/pull/4043 | Y |
 | MF1633003 | https://alluxio.atlassian.net/browse/ALLUXIO-2127 | https://github.com/Alluxio/alluxio/pull/4037 | Y |
 | MF1633006 | https://alluxio.atlassian.net/browse/ALLUXIO-2128 | |
-| MF1633010 | https://alluxio.atlassian.net/browse/ALLUXIO-2129 | |
+| MF1633010 | https://alluxio.atlassian.net/browse/ALLUXIO-2129 | https://github.com/Alluxio/alluxio/pull/4064 |
 | MF1633012 | https://alluxio.atlassian.net/browse/ALLUXIO-2130 | |
 | MF1633015 | https://alluxio.atlassian.net/browse/ALLUXIO-2132 | |
-| MF1633016 | https://alluxio.atlassian.net/browse/ALLUXIO-2133 | |
+| MF1633016 | https://alluxio.atlassian.net/browse/ALLUXIO-2133 | https://github.com/Alluxio/alluxio/pull/4062 | Y |
 | MF1633019 | https://alluxio.atlassian.net/browse/ALLUXIO-2134 | |
 | MF1633020 | https://alluxio.atlassian.net/browse/ALLUXIO-2135 | |
 | MF1633021 | https://alluxio.atlassian.net/browse/ALLUXIO-2136 | |
@@ -63,7 +63,7 @@
 | MG1633007 | https://alluxio.atlassian.net/browse/ALLUXIO-2269 | https://github.com/Alluxio/alluxio/pull/4040 | Y |
 | MG1633008 | https://alluxio.atlassian.net/browse/ALLUXIO-2270 | |
 | MG1633017 | https://alluxio.atlassian.net/browse/ALLUXIO-2271 | https://github.com/Alluxio/alluxio/pull/4036 | Y |
-| MG1633021 | https://alluxio.atlassian.net/browse/ALLUXIO-2272 | |
+| MG1633021 | https://alluxio.atlassian.net/browse/ALLUXIO-2272 | https://github.com/Alluxio/alluxio/pull/4065 |
 | MG1633023 | https://alluxio.atlassian.net/browse/ALLUXIO-2273 | |
 | MG1633024 | https://alluxio.atlassian.net/browse/ALLUXIO-2274 | |
 | MG1633027 | https://alluxio.atlassian.net/browse/ALLUXIO-2275 | |
@@ -80,13 +80,13 @@
 | MG1633053 | https://alluxio.atlassian.net/browse/ALLUXIO-2286 | |
 | MG1633055 | https://alluxio.atlassian.net/browse/ALLUXIO-2287 | |
 | MG1633059 | https://alluxio.atlassian.net/browse/ALLUXIO-2288 | https://github.com/Alluxio/alluxio/pull/4052 | Y |
-| MG1633060 | https://alluxio.atlassian.net/browse/ALLUXIO-2289 | |
+| MG1633060 | https://alluxio.atlassian.net/browse/ALLUXIO-2289 | https://github.com/Alluxio/alluxio/pull/4061 | Y |
 | MG1633066 | https://alluxio.atlassian.net/browse/ALLUXIO-2290 | |
 | MG1633067 | https://alluxio.atlassian.net/browse/ALLUXIO-2291 | https://github.com/Alluxio/alluxio/pull/4058 |
 | MG1633068 | https://alluxio.atlassian.net/browse/ALLUXIO-2292 | |
 | MG1633069 | https://alluxio.atlassian.net/browse/ALLUXIO-2293 | |
 | MG1633070 | https://alluxio.atlassian.net/browse/ALLUXIO-2294 | |
-| MG1633071 | https://alluxio.atlassian.net/browse/ALLUXIO-2295 | |
+| MG1633071 | https://alluxio.atlassian.net/browse/ALLUXIO-2295 | https://github.com/Alluxio/alluxio/pull/4066 |
 | MG1633073 | https://alluxio.atlassian.net/browse/ALLUXIO-2296 | https://github.com/Alluxio/alluxio/pull/4063 | Y |
 | MG1633074 | https://alluxio.atlassian.net/browse/ALLUXIO-2297 | |
 | MG1633075 | https://alluxio.atlassian.net/browse/ALLUXIO-2298 | |
