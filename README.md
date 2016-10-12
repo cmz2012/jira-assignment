@@ -8,6 +8,14 @@
 
 ### 提醒下，大家最后创建 PR 时候，务必将该 jira 链接添加到该 PR 的描述框里，不然我无法知道该 PR 对应于哪个任务以及是哪个同学完成的
 
+## 截止日期
+
+第一批截止日期为`2016-10-25 23:59:59`，第二批为`2016-10-29 23:59:59`。
+
+#### 注意：所提交PR需要在截止日期前被成功merge才有效！！超过截止日期已提交但没merge的PR无效哦~
+
+#### 由于PR从创建到审核再到最终merge一般需要几个工作日，大家一定要尽快提交！！
+
 ## Note
 
 - 在使用git之前，先运行下以下命令
@@ -99,55 +107,55 @@ $git config --global user.email "your_github_email"
 | MG1633075 | https://alluxio.atlassian.net/browse/ALLUXIO-2298 | |
 | MG1633080 | https://alluxio.atlassian.net/browse/ALLUXIO-2299 | |
 
-## 第二批（待分配）
+## 第二批
 
 | 学号 | jira 链接 | Pull Request 链接 | Merged |
 |:---------:|:-------------------------------------------------:|:--------------------------------------------:|:---:|
-| MG1633025 | | |
-| MG1633082 | | |
-| MG1633087 | | |
-| MG1633088 | | |
-| MG1633090 | | |
-| MG1633091 | | |
-| MG1633092 | | |
-| MG1633093 | | |
-| MG1633096 | | |
-| MG1633097 | | |
-| MG1633100 | | |
-| MG1633102 | | |
-| MG1633108 | | |
-| 131220168 | | |
-| MG1433092 | | |
-| MF1523001 | | |
-| MG1633035 | | |
-| MG1633022 | | |
-| MF1523019 | | |
-| MG1533075 | | |
-| 131130068 | | |
-| MF1533074 | | |
-| MF1533052 | | |
-| MG1533096 | | |
-| MF1633056 | | |
-| DG1533502 | | |
-| DG1614011 | | |
-| MG1633061 | | |
-| MF1633057 | | |
-| MF1533072 | | |
-| MF1633068 | | |
-| DZ1633016 | | |
-| MF1633044 | | |
-| MF1633022 | | |
-| MG1523019 | | |
-| MF1633005 | | |
-| MG1533039 | | |
-| MF1533011 | | |
-| MF1633037 | | |
-| DZ1633002 | | |
-| MG1633103 | | |
-| MG1633063 | | |
-| MG1633072 | | |
-| MG1633099 | | |
-| MG1633015 | | |
-| MG1633009 | | |
-| MG1633032 | | |
-| MG1633095 | | |
+| MG1633025 | https://alluxio.atlassian.net/browse/ALLUXIO-2300 | |
+| MG1633082 | https://alluxio.atlassian.net/browse/ALLUXIO-2301 | |
+| MG1633087 | https://alluxio.atlassian.net/browse/ALLUXIO-2302 | |
+| MG1633088 | https://alluxio.atlassian.net/browse/ALLUXIO-2303 | |
+| MG1633090 | https://alluxio.atlassian.net/browse/ALLUXIO-2304 | |
+| MG1633091 | https://alluxio.atlassian.net/browse/ALLUXIO-2305 | |
+| MG1633092 | https://alluxio.atlassian.net/browse/ALLUXIO-2306 | |
+| MG1633093 | https://alluxio.atlassian.net/browse/ALLUXIO-2307 | |
+| MG1633096 | https://alluxio.atlassian.net/browse/ALLUXIO-2308 | |
+| MG1633097 | https://alluxio.atlassian.net/browse/ALLUXIO-2309 | |
+| MG1633100 | https://alluxio.atlassian.net/browse/ALLUXIO-2310 | |
+| MG1633102 | https://alluxio.atlassian.net/browse/ALLUXIO-2311 | |
+| MG1633108 | https://alluxio.atlassian.net/browse/ALLUXIO-2312 | |
+| 131220168 | https://alluxio.atlassian.net/browse/ALLUXIO-2313 | |
+| MG1433092 | https://alluxio.atlassian.net/browse/ALLUXIO-2314 | |
+| MF1523001 | https://alluxio.atlassian.net/browse/ALLUXIO-2315 | |
+| MG1633035 | https://alluxio.atlassian.net/browse/ALLUXIO-2316 | |
+| MG1633022 | https://alluxio.atlassian.net/browse/ALLUXIO-2317 | |
+| MF1523019 | https://alluxio.atlassian.net/browse/ALLUXIO-2318 | |
+| MG1533075 | https://alluxio.atlassian.net/browse/ALLUXIO-2319 | |
+| 131130068 | https://alluxio.atlassian.net/browse/ALLUXIO-2320 | |
+| MF1533074 | https://alluxio.atlassian.net/browse/ALLUXIO-2321 | |
+| MF1533052 | https://alluxio.atlassian.net/browse/ALLUXIO-2322 | |
+| MG1533096 | https://alluxio.atlassian.net/browse/ALLUXIO-2323 | |
+| MF1633056 | https://alluxio.atlassian.net/browse/ALLUXIO-2324 | |
+| DG1533502 | https://alluxio.atlassian.net/browse/ALLUXIO-2325 | |
+| DG1614011 | https://alluxio.atlassian.net/browse/ALLUXIO-2326 | |
+| MG1633061 | https://alluxio.atlassian.net/browse/ALLUXIO-2327 | |
+| MF1633057 | https://alluxio.atlassian.net/browse/ALLUXIO-2328 | |
+| MF1533072 | https://alluxio.atlassian.net/browse/ALLUXIO-2329 | |
+| MF1633068 | https://alluxio.atlassian.net/browse/ALLUXIO-2330 | |
+| DZ1633016 | https://alluxio.atlassian.net/browse/ALLUXIO-2331 | |
+| MF1633044 | https://alluxio.atlassian.net/browse/ALLUXIO-2332 | |
+| MF1633022 | https://alluxio.atlassian.net/browse/ALLUXIO-2333 | |
+| MG1523019 | https://alluxio.atlassian.net/browse/ALLUXIO-2334 | |
+| MF1633005 | https://alluxio.atlassian.net/browse/ALLUXIO-2335 | |
+| MG1533039 | https://alluxio.atlassian.net/browse/ALLUXIO-2337 | |
+| MF1533011 | https://alluxio.atlassian.net/browse/ALLUXIO-2338 | |
+| MF1633037 | https://alluxio.atlassian.net/browse/ALLUXIO-2339 | |
+| DZ1633002 | https://alluxio.atlassian.net/browse/ALLUXIO-2340 | |
+| MG1633103 | https://alluxio.atlassian.net/browse/ALLUXIO-2341 | |
+| MG1633063 | https://alluxio.atlassian.net/browse/ALLUXIO-2342 | |
+| MG1633072 | https://alluxio.atlassian.net/browse/ALLUXIO-2343 | |
+| MG1633099 | https://alluxio.atlassian.net/browse/ALLUXIO-2344 | |
+| MG1633015 | https://alluxio.atlassian.net/browse/ALLUXIO-2346 | |
+| MG1633009 | https://alluxio.atlassian.net/browse/ALLUXIO-2347 | |
+| MG1633032 | https://alluxio.atlassian.net/browse/ALLUXIO-2348 | |
+| MG1633095 | https://alluxio.atlassian.net/browse/ALLUXIO-2349 | |
