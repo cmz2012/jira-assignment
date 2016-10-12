@@ -10,6 +10,13 @@
 
 ## Note
 
+- 在使用git之前，先运行下以下命令
+```bash
+$git config --global user.name "your_name"
+$git config --global user.email "your_github_email"
+```
+  从而将之后进行的commit与你的github账号相关联。
+
 - 大家创建PR时请注意PR的标题格式，标准格式如图所示，已经创建的PR也支持修改标题的。
   ![title](img/title.png)
 - 在创建PR时的描述框中，第一行请添加该 jira 的链接，如图所示，
