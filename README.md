@@ -117,7 +117,7 @@ $git config --global user.email "your_github_email"
 | MG1633088 | https://alluxio.atlassian.net/browse/ALLUXIO-2303 | |
 | MG1633090 | https://alluxio.atlassian.net/browse/ALLUXIO-2304 | https://github.com/Alluxio/alluxio/pull/4102 |
 | MG1633091 | https://alluxio.atlassian.net/browse/ALLUXIO-2305 | https://github.com/Alluxio/alluxio/pull/4079 | Y |
-| MG1633092 | https://alluxio.atlassian.net/browse/ALLUXIO-2306 | https://github.com/Alluxio/alluxio/pull/4093 |
+| MG1633092 | https://alluxio.atlassian.net/browse/ALLUXIO-2306 | |
 | MG1633093 | https://alluxio.atlassian.net/browse/ALLUXIO-2307 | https://github.com/Alluxio/alluxio/pull/4086 |
 | MG1633096 | https://alluxio.atlassian.net/browse/ALLUXIO-2308 | |
 | MG1633097 | https://alluxio.atlassian.net/browse/ALLUXIO-2309 | |
