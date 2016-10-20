@@ -43,7 +43,7 @@ $git config --global user.email "your_github_email"
 | DZ1633010 | https://alluxio.atlassian.net/browse/ALLUXIO-2097 | |
 | DZ1633012 | https://alluxio.atlassian.net/browse/ALLUXIO-2101 | https://github.com/Alluxio/alluxio/pull/4109 |
 | DZ1633014 | https://alluxio.atlassian.net/browse/ALLUXIO-2103 | https://github.com/Alluxio/alluxio/pull/4044 | Y |
-| DZ1633019 | https://alluxio.atlassian.net/browse/ALLUXIO-2104 | https://github.com/Alluxio/alluxio/pull/4129 |
+| DZ1633019 | https://alluxio.atlassian.net/browse/ALLUXIO-2104 | https://github.com/Alluxio/alluxio/pull/4164 |
 | MF1533012 | https://alluxio.atlassian.net/browse/ALLUXIO-2106 | |
 | MF1533040 | https://alluxio.atlassian.net/browse/ALLUXIO-2125 | |
 | MF1611002 | https://alluxio.atlassian.net/browse/ALLUXIO-2126 | https://github.com/Alluxio/alluxio/pull/4043 | Y |
@@ -67,7 +67,7 @@ $git config --global user.email "your_github_email"
 | MF1633052 | https://alluxio.atlassian.net/browse/ALLUXIO-2256 | https://github.com/Alluxio/alluxio/pull/4045 | Y |
 | MF1633053 | https://alluxio.atlassian.net/browse/ALLUXIO-2257 | |
 | MF1633054 | https://alluxio.atlassian.net/browse/ALLUXIO-2258 | https://github.com/Alluxio/alluxio/pull/4048 | Y |
-| MF1633060 | https://alluxio.atlassian.net/browse/ALLUXIO-2259 | |
+| MF1633060 | https://alluxio.atlassian.net/browse/ALLUXIO-2259 | https://github.com/Alluxio/alluxio/pull/4142 | Y |
 | MF1633072 | https://alluxio.atlassian.net/browse/ALLUXIO-2260 | https://github.com/Alluxio/alluxio/pull/4107 | Y |
 | MG1523017 | https://alluxio.atlassian.net/browse/ALLUXIO-2261 | https://github.com/Alluxio/alluxio/pull/4046 | Y |
 | MG1533004 | https://alluxio.atlassian.net/browse/ALLUXIO-2264 | |
@@ -86,7 +86,7 @@ $git config --global user.email "your_github_email"
 | MG1633038 | https://alluxio.atlassian.net/browse/ALLUXIO-2277 | https://github.com/Alluxio/alluxio/pull/4137 |
 | MG1633039 | https://alluxio.atlassian.net/browse/ALLUXIO-2278 | |
 | MG1633044 | https://alluxio.atlassian.net/browse/ALLUXIO-2279 | https://github.com/Alluxio/alluxio/pull/4049 | Y |
-| MG1633045 | https://alluxio.atlassian.net/browse/ALLUXIO-2280 | |
+| MG1633045 | https://alluxio.atlassian.net/browse/ALLUXIO-2280 | https://github.com/Alluxio/alluxio/pull/4085 | Y |
 | MG1633046 | https://alluxio.atlassian.net/browse/ALLUXIO-2281 | https://github.com/Alluxio/alluxio/pull/4130 |
 | MG1633047 | https://alluxio.atlassian.net/browse/ALLUXIO-2282 | |
 | MG1633049 | https://alluxio.atlassian.net/browse/ALLUXIO-2283 | https://github.com/Alluxio/alluxio/pull/4084 | Y |
@@ -144,7 +144,7 @@ $git config --global user.email "your_github_email"
 | MF1633068 | https://alluxio.atlassian.net/browse/ALLUXIO-2330 | |
 | DZ1633016 | https://alluxio.atlassian.net/browse/ALLUXIO-2331 | |
 | MF1633044 | https://alluxio.atlassian.net/browse/ALLUXIO-2332 | https://github.com/Alluxio/alluxio/pull/4083 | Y |
-| MF1633022 | https://alluxio.atlassian.net/browse/ALLUXIO-2333 | |
+| MF1633022 | https://alluxio.atlassian.net/browse/ALLUXIO-2333 | https://github.com/Alluxio/alluxio/pull/4160 | Y |
 | MG1523019 | https://alluxio.atlassian.net/browse/ALLUXIO-2334 | https://github.com/Alluxio/alluxio/pull/4133 |
 | MF1633005 | https://alluxio.atlassian.net/browse/ALLUXIO-2335 | |
 | MG1533039 | https://alluxio.atlassian.net/browse/ALLUXIO-2337 | |
@@ -158,9 +158,11 @@ $git config --global user.email "your_github_email"
 | MG1633015 | https://alluxio.atlassian.net/browse/ALLUXIO-2346 | |
 | MG1633009 | https://alluxio.atlassian.net/browse/ALLUXIO-2347 | |
 | MG1633032 | https://alluxio.atlassian.net/browse/ALLUXIO-2348 | |
-| MG1633095 | https://alluxio.atlassian.net/browse/ALLUXIO-2349 | https://github.com/Alluxio/alluxio/pull/4118 |
+| MG1633095 | https://alluxio.atlassian.net/browse/ALLUXIO-2349 | https://github.com/Alluxio/alluxio/pull/4161 | Y |
 | MG1633083 | https://alluxio.atlassian.net/browse/ALLUXIO-2350 | https://github.com/Alluxio/alluxio/pull/4125 |
 | MF1523028 | https://alluxio.atlassian.net/browse/ALLUXIO-2351 | https://github.com/Alluxio/alluxio/pull/4135 |
 | MF1533050 | https://alluxio.atlassian.net/browse/ALLUXIO-2352 | |
 | MF1633059 | https://alluxio.atlassian.net/browse/ALLUXIO-2354 | https://github.com/Alluxio/alluxio/pull/4120 |
 | MG1633079 | https://alluxio.atlassian.net/browse/ALLUXIO-2355 | |
+| MG1533068 | https://alluxio.atlassian.net/browse/ALLUXIO-2388 | |
+| MF1633031 | https://alluxio.atlassian.net/browse/ALLUXIO-2389 | |
